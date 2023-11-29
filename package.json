@@ -16,6 +16,7 @@
     "chrome-cookies-secure": "^2.1.1",
     "cookie": "^0.6.0",
     "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.64.0",
     "puppeteer": "^21.5.2"
   },
   "devDependencies": {
@@ -25,6 +26,7 @@
     "@swc/core": "^1.3.18",
     "@types/jest": "^29.2.0",
     "@types/node": "^18.17.0",
+    "@types/node-telegram-bot-api": "^0.63.3",
     "@typescript-eslint/eslint-plugin": "^5.38.0",
     "@typescript-eslint/parser": "^5.38.0",
     "babel-helpers": "^6.24.1",

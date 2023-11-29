@@ -1,5 +1,8 @@
 import chrome from 'chrome-cookies-secure'
 
+/**
+ * @deprecated Use puppeteer.
+ */
 export async function getCookies() {
 
   const cookies1 = await new Promise<Record<string,string>>(resolve => {
