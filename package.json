@@ -15,7 +15,8 @@
     "cheerio": "1.0.0-rc.12",
     "chrome-cookies-secure": "^2.1.1",
     "cookie": "^0.6.0",
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "puppeteer": "^21.5.2"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.19.4",
